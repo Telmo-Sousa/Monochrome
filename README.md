@@ -1,10 +1,13 @@
 # SousaDotfiles
 My personal dotfiles featuring:
 
-[awesome](https://archlinux.org/packages/community/x86_64/awesome/)  
+[GNU/Linux](https://archlinux.org/)  
+[awesome](https://wiki.archlinux.org/index.php/Awesome)  
 [Rofi](https://wiki.archlinux.org/index.php/Rofi)  
 [Termite](https://wiki.archlinux.org/index.php/Termite)  
-[BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)  
+[BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
+[nano](https://wiki.archlinux.org/index.php/Nano) 
+[neofetch](https://github.com/dylanaraps/neofetch)
   
 
 # Screnshots

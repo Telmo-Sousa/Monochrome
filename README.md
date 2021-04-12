@@ -1,5 +1,5 @@
 # SousaDotfiles
-My personal dotfiles featuring:
+My monochrome theme featuring:
 
 [GNU/Linux](https://archlinux.org/)  
 [awesome](https://wiki.archlinux.org/index.php/Awesome)  

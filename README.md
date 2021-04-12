@@ -1,5 +1,8 @@
 # SousaDotfiles
-My personal dotfiles.
+My personal dotfiles featuring:
+
+[Rofi](https://wiki.archlinux.org/index.php/Rofi)  
+  
 
 # Screnshots
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/desktopshowoff.png "Desktop")

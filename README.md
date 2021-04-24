@@ -13,4 +13,4 @@ My monochrome theme featuring:
 # Screnshots
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/desktopshowoff.png "Desktop")
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/rofishowoff.png "Rofi")
-
+![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/rangerhtop.png "HTop and Ranger")

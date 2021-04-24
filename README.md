@@ -6,7 +6,9 @@ My monochrome theme featuring:
 [Rofi](https://wiki.archlinux.org/index.php/Rofi)  
 [Termite](https://wiki.archlinux.org/index.php/Termite)  
 [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)
+
 [nano](https://wiki.archlinux.org/index.php/Nano) 
+
 [neofetch](https://github.com/dylanaraps/neofetch)
   
 

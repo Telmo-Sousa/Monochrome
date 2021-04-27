@@ -1,4 +1,4 @@
-# SousaDotfiles
+# awesome dotfiles
 My monochrome theme featuring:
 
 [GNU/Linux](https://archlinux.org/)  
@@ -14,4 +14,4 @@ My monochrome theme featuring:
 # Screnshots
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/desktopshowoff.png "Desktop")
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/rofishowoff.png "Rofi")
-![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/rangerhtop.png "HTop and Ranger")
+![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/Screenshot_20210427_230249.png "show-off")

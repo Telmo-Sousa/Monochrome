@@ -12,6 +12,6 @@ My monochrome theme featuring:
 [ranger](https://wiki.archlinux.org/index.php/Ranger)    
 
 # Screnshots
+![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/Screenshot_20210427_230249.png "show-off")
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/desktopshowoff.png "Desktop")
 ![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/rofishowoff.png "Rofi")
-![Alt text](https://github.com/Telmo-Sousa/SousaDotfiles/blob/main/Screenshot_20210427_230249.png "show-off")
